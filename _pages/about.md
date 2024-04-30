@@ -44,7 +44,7 @@ My business directions include:
 # 🔥 News -->
 
 
-<span class='anchor' id='-Publications'></span>
+<span class='anchor' id='-publications'></span>
 
 # 📝 Published Papers
 
