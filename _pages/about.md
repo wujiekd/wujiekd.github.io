@@ -36,7 +36,7 @@ My business directions include:
 - Large language Models
 - Exploratory Data Analysis (EDA)
 - Data Mining
-- Style Transfer (AE, GAN, Diffusion)
+- Style Transfer (Auto Encoder, GAN, Diffusion)
 - Object Detection
 
 <!-- <span class='anchor' id='-news'></span>
