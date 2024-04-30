@@ -17,24 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Algorithmic research revolves around multimodal interaction and modeling, with internship tasks involving LLM and image generation. Currently seeking positions related to multimodal algorithms and AIGC.
 
-I will obtain master's degree from the University of Science and Technology of China, supervised by Associate Professor Yu Jun, with corporate mentors Peng Chang, the head of the multimodal group at the Silicon Valley Research Institute of Ping An Technology in the United States, and Iek-Heng Chu. I graduated from Guangzhou University with a bachelor's degree, supervised by Professor Jin Li, the executive dean of the Institute of Artificial Intelligence, and Associate Professor Xianmin Wang. Currently, I have contributed to the publication of more than 10 articles. <a href='https://scholar.google.com/citations?user=MmZ_y1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+Research revolves around Multimodal Interaction and Modeling, with internship projects involving LLM and Image Generation. 
 
-During my undergraduate years, I frequently participated in algorithm competitions. I was a member of the Alibaba Security Student Expert Group. I am ranked the Top 10 in the [Alibaba Security Challenger Program](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te).
+**Currently seeking positions related to Multimodal algorithms and AIGC.**
+
+I will be completing my master's degree at the University of Science and Technology of China under the guidance of Associate Professor Jun Yu. Additionally, I have corporate mentors Peng Chang, who heads the multimodal group at the Silicon Valley Research Institute of Ping An Technology in the United States, and Iek-Heng Chu. My undergraduate studies were pursued at Guangzhou University, where I was supervised by Professor Jin Li, the executive dean of the Institute of Artificial Intelligence, and Associate Professor Xianmin Wang. Currently, I have contributed to the publication of more than 10 articles. <a href='https://scholar.google.com/citations?user=MmZ_y1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
+During my undergraduate years, I frequently participated in algorithm competitions. I was a member of the Alibaba Security Student Expert Group. I am ranked the 7th in the [Alibaba Security Challenger Program](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te).
 
 My research interests include:
-- Multimodal interaction and modeling (CV/NLP)
+- Multimodal Interaction and Modeling (CV/NLP)
 - AIGC
-- Fine-grained image recognition
-- Robust machine learning
+- Fine-grained Image Recognition
+- Robust Machine Learning
 
 My business directions include:
-- Large language models
-- Exploratory data analysis (EDA)
-- Data mining
-- Style transfer (AE, GAN, Diffusion)
-- Object detection
+- Large language Models
+- Exploratory Data Analysis (EDA)
+- Data Mining
+- Style Transfer (AE, GAN, Diffusion)
+- Object Detection
 
 <!-- <span class='anchor' id='-news'></span>
 
@@ -51,11 +54,11 @@ My business directions include:
 <div class='paper-box-text' markdown="1">
 
 [Dialogue Cross-Enhanced Central Engagement Attention Model for Real-Time Engagement Estimation]() \\
-Jun Yu, **Keda Lu**, Ji Zhao et al. (primary student author)
+Jun Yu, **Keda Lu**, Ji Zhao et al. (First student author)
 
 1. Propose center-based sliding window to solve the problem of repetitive inference in sliding windows, improving inference efficiency by 100%.
 2. Propose the central engagement attention model based on SA, surpassing previous SOTA BiLSTM model, with inference efficiency improved by 300%.
-3. Propose cross-enhanced module based on CA and seamlessly integrated with the core engagement attention model, establish a new SOTA result.
+3. Propose cross-enhanced module based on CA and seamlessly integrated with the central engagement attention model, establish a new SOTA result.
 
 <!-- [**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech) -->
 </div>
@@ -67,11 +70,12 @@ Jun Yu, **Keda Lu**, Ji Zhao et al. (primary student author)
 <div class='paper-box-text' markdown="1">
 
 [MvAV-pix2pixHD: Multi-view Aerial View Image Translation]() \\
-Jun Yu, **Keda Lu**, Shenshen Du et al. (primary student author)
+Jun Yu, **Keda Lu**, Shenshen Du et al. (First student author)
 
-1. Time-priority sampling and random sampling methods are designed for multi-view image translation tasks.
-2. MvAV-pix2pixHD is proposed for multi-view image translation, using three powerful losses.
+1. Design Time-priority sampling and random sampling for sampling.
+2. Propose MvAV-pix2pixHD for multi-view aerial view image translation and use three powerful losses.
 3. This method won the 1st and 2nd place in the MAVIC-T competition for two multi-view image translation tasks.
+
 
 <!-- [**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech) -->
 </div>
@@ -82,13 +86,13 @@ Jun Yu, **Keda Lu**, Shenshen Du et al. (primary student author)
 <div class='paper-box-text' markdown="1">
 
 - `ACM-MM 2023(CCF-A)` [Sliding Window Seq2seq Modeling for Engagement Estimation](https://dl.acm.org/doi/abs/10.1145/3581783.3612852) \\
-Jun Yu, **Keda Lu**, Mohan Jing et al. (primary student author)
+Jun Yu, **Keda Lu**, Mohan Jing et al. (First student author)
 
 - `TOMM 2024在投(CCF-B)` [Exploring Seq2seq Models for Engagement Estimation in
 Dyadic Conversations]() \\
-Jun Yu, **Keda Lu**, Lei Wang et al. (primary student author)
+Jun Yu, **Keda Lu**, Lei Wang et al. (First student author)
 
-1. Design multiple Seq2seq engagement estimation model based on Transformer and BiLSTM architectures.
+1. Design multiple Seq2seq model based on Transformer and BiLSTM.
 2. Propose sliding window to address the significant context loss issue.
 3. Propose Ai-BiLSTM to align and interact multimodal features of dialogue participants, further enhancing performance.
 4. This method won the championship🏆 at ACM-MM 2023.
@@ -103,10 +107,10 @@ Jun Yu, **Keda Lu**, Lei Wang et al. (primary student author)
 <div class='paper-box-text' markdown="1">
 
 [A Comprehensive and Unified Out-of-Distribution Classification Solution Framework]() \\
-Jun Yu, **Keda Lu**, Yifan Wang et al. (primary student author)
+Jun Yu, **Keda Lu**, Yifan Wang et al. (First student author)
 
-1. Propose semantic masking data augmentation for enhancing model robustness against occlusion scenarios.
-2. Propose OOD-DAS, a comprehensive and robust data augmentation collection.
+1. Propose semantic masking for enhancing model robustness.
+2. Propose OOD-DAS, a comprehensive data augmentation collection.
 3. Propose OOD-Attention, which seamlessly integrates with SOTA classification models to improve model robustness.
 4. Propose an iterative pseudo-labeling method for ensemble integration of multiple architecture models, further enhancing OOD recognition accuracy.
 5. This method won the championship🏆 at ICCV 2023.
@@ -148,22 +152,22 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (primary student author)
 <div class='paper-box-text' markdown="1">
 - *2023.10 - 2024.02* Loan Customer Repayment Intention Recognition
 
-Conducted exploratory data analysis (EDA) on a dataset with millions of records and tens of millions of call transcripts.
-EDA -> Data Cleaning -> Feature Engineering. Utilized BERT for text modeling to identify customers' repayment intentions.
-Explored leveraging LLM for data augmentation on call transcripts to enhance model robustness.
+1. Conducte EDA on a dataset with millions of records and tens of millions of call texts.
+2. EDA -> Data Cleaning -> Feature Engineering. Utilized BERT for text modeling to identify customers' repayment intentions.
+3. Explore LLM for data augmentation on call texts to enhance model robustness.
 </div>
 </div>
 
-- *2023.05 - 2023.09* Vertical Domain Chat Assistant (Training Corpus Construction, Based on ChatGLM, Bloomz, Qwen, etc., fine-tuning compared to Lora)
-
+- *2023.05 - 2023.09* Vertical Domain Chat Assistant (Training Corpus Construction, Based on ChatGLM, Bloomz, Qwen, etc., to finetune)
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OCR Large Model Showcase Platform</div><img src='images/ocrdemo.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2023.03 - 2023.06* OCR Large Model Showcase Platform
 
-1. Use Gradio for both front-end and back-end to construct the entire OCR large model showcase interface, incorporating DocQA, MLLM, and pure OCR modules.
-2. Independently maintained for internal analysis and debugging, as well as external business showcasing. This project was awarded the 2023 H1 XXX·Enterprise Excellence Award - Technical Advancement.
+1. Use Gradio to construct the entire OCR large model showcase interface, incorporating DocQA, MLLM, and pure OCR modules.
+2. Independently maintained for internal analysis and debugging, as well as external business showcasing. 
+3. This project was awarded the 2023 H1 XXX·Enterprise Excellence Award - Technical Advancement.
 3. Responsible for the DocQA module.
 
 
@@ -175,8 +179,9 @@ Explored leveraging LLM for data augmentation on call transcripts to enhance mod
 - *2023.01 - 2023.03* Chinese font generation of Arbitrary style (GAN、Diffusion model)
 
 
-1. Research on Chinese font generation algorithms, including DG-Font and Diff-Font.
-2. Collect a dataset of 400 font classes and design an end-to-end font generation model based on the Diffusion model (DDPM). It slightly outperformed Diff-Font and DG-Font in metrics such as SSIM and LPIPS.
+1. Explore Chinese font generation algorithms, including DG-Font and Diff-Font.
+2. Collect a dataset of 400 different styles of fonts.
+3. Design an end-to-end font generation model based on the Diffusion model (DDPM). It slightly outperformed Diff-Font and DG-Font in metrics such as SSIM and LPIPS.
 
 - Future Improvements: End-to-end, Contrastive learning, Diffusion model.
 
@@ -191,9 +196,9 @@ Explored leveraging LLM for data augmentation on call transcripts to enhance mod
 <div class='paper-box-text' markdown="1">
 - *2022.11 - 2023.01* Document generation and style transfer (Independent research)
 
-1. Explore the possibility of Diffusion model and GAN for end-to-end document generation.
-2. Research five years of style transfer articles from top conferences, CNN -> Attention -> Transformer, including AdaIN (ICCV2017), MetaNet (CVPR2018), SANet (CVPR2019), MAST (ACM-MM 2020), StyleFormer (ICCV2021), AdaAttN (ICCV2021) and StyTr2 (CVPR2022).
-3. Reproduce StyTr2 (CVPR2022) and AdaAttN (ICCV2021) and transfer them to the document generation task for data augmentation.
+1. Explore Diffusion model and GAN for end-to-end document generation.
+2. Research five years of style transfer articles from top conferences, CNN -> Attention -> Transformer, including AdaIN(ICCV2017), MetaNet(CVPR2018), SANet(CVPR2019), MAST(ACM-MM 2020), StyleFormer(ICCV2021), AdaAttN(ICCV2021) and StyTr2(CVPR2022).
+3. Reproduce StyTr2(CVPR2022) and AdaAttN(ICCV2021) and transfer them to the document generation task for data augmentation.
 
 - Future improvements: Contrastive learning, GAN, Diffusion model
 
@@ -204,8 +209,8 @@ Explored leveraging LLM for data augmentation on call transcripts to enhance mod
 <div class='paper-box-text' markdown="1">
 - *2022.06 - 2022.12* Reproducing mainstream algorithms based on the Mindspore algorithmic framework
 
-1. Participated in reproducing the [RetinaFace face detection algorithm](https://github.com/mindspore-lab/mindface)
-2. Independent reproduction of the [FCENet text detection algorithm](https://github.com/mindspore-lab/mindocr)
+1. Participate in reproducing the [RetinaFace face detection algorithm](https://github.com/mindspore-lab/mindface).
+2. Independent reproduce the [FCENet text detection algorithm](https://github.com/mindspore-lab/mindocr).
 </div>
 </div>
 
@@ -215,7 +220,7 @@ Explored leveraging LLM for data augmentation on call transcripts to enhance mod
 <div class='paper-box-text' markdown="1">
 - *2020.12 - 2021.01* Genetic Algorithm-based Intelligent Timetabling - Course Management System (Individually implemented)
 
-1. Use sqlite3 databaseand and choose Bootstrap-Flask for visualization. Implement a unified login interface for students, teachers, and department heads with distinct client interfaces.
+1. Use sqlite3 databaseand and Bootstrap-Flask for visualization. Implement distinct client interfaces for students, teachers, and educational director.
 2. Propose an intelligent timetabling algorithm and proposed a novel optimization objective function (utilizing course variance). Employed **genetic algorithms** for optimization in timetabling.
 3. This project comprises over 2000 lines of Python code and 1000 lines of HTML code. It has been openly shared on my personal [blog](https://blog.csdn.net/weixin_43999137/article/details/113178364) and [Github]((https://github.com/wujiekd/Integrated-course-design-of-software-direction)).
 </div>
@@ -225,6 +230,7 @@ Explored leveraging LLM for data augmentation on call transcripts to enhance mod
 <div class='paper-box-text' markdown="1">
 
 - *2019.04 - 2019.06* Student performance management system based on MFC (C++) (Individually implemented).
+
 1. Includes all basic functions (Create, Read, Update, Delete), as well as operations like import, save, and sorting.
 2. The design was primarily inspired by the large login button interface of QQ, aiming to create a clear and clean user experience.
 3. This project comprises over 10,000 lines of C++ code and has been open-sourced on my personal [blog](https://blog.csdn.net/weixin_43999137/article/details/91184179) and [Github](https://github.com/wujiekd/MFC-student-performance-management-system).
@@ -357,6 +363,6 @@ Explored leveraging LLM for data augmentation on call transcripts to enhance mod
 
 
 
-**Thank you very much for every visitor, and we look forward to hearing from you!**
+**Thank you very much for every visitor, and I look forward to hearing from you!**
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=rKMwhJZp-jNdf9O9kF5nNmH24oOX225WsWhZMH3I8bQ&cl=ffffff&w=a"></script>
