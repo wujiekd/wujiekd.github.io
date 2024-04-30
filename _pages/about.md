@@ -333,7 +333,7 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (First student author)
 - *2023.10* National Scholarship (Top 1% of graduate students)
 - *2022.10* National Scholarship (Top 1% of graduate students)
 - *2021.10* National Scholarship (Top 1% of undergraduate students)
-- *2020.10* National Scholarships (Top 1% of undergraduate)
+- *2020.10* National Scholarship (Top 1% of undergraduate students)
 
 
 <span class='anchor' id='-educations'></span>
