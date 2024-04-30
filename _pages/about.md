@@ -160,33 +160,33 @@ Jun Yu, **Keda Lu**, Shenshen Du et al. (primary student author)
 ### 本科生阶段
 ---
 
-- *2022.08* [中国高校计算机大赛—微信大数据挑战赛](https://algo.weixin.qq.com/) (Top10 prize 560,000¥, 个人solo, **全国二等奖**, Top30/3000+)  [[Leaderboard]](https://algo.weixin.qq.com/) [[Code]](https://github.com/wujiekd/WeChat-Big-Data-Challenge-2022-National-Second-Prize-Top30) 
+- *2022.08* [Computer Competition of China-WeChat Big Data Challenge](https://algo.weixin.qq.com/) (Top10 prize 560,000¥, Solo, **全国二等奖**, Top30/3000+)  [[Leaderboard]](https://algo.weixin.qq.com/) [[Code]](https://github.com/wujiekd/WeChat-Big-Data-Challenge-2022-National-Second-Prize-Top30) 
 
 
-- *2022.01* [AAAI 2022：以数据为中心的鲁棒机器学习竞赛](https://advml-workshop.github.io/aaai2022/) (Top10 prize 1000,000¥, 个人solo, 初赛2/3692, **复赛10/3692**) [[Leaderboard]](https://tianchi.aliyun.com/competition/entrance/531939/rankingList) [[Code]](https://github.com/wujiekd/RTA-Iterative-Search-AAAI2022) [[论文]](https://alisec-competition.oss-cn-shanghai.aliyuncs.com/competition_papers/20211201/rank10.pdf) 
+- *2022.01* [AAAI 2022: Data-Centric Robust Learning on ML Models](https://advml-workshop.github.io/aaai2022/) (Top10 prize 1000,000¥, Solo, 初赛2/3692, **复赛10/3692**) [[Leaderboard]](https://tianchi.aliyun.com/competition/entrance/531939/rankingList?lang=en-us) [[Code]](https://github.com/wujiekd/RTA-Iterative-Search-AAAI2022) [[论文]](https://alisec-competition.oss-cn-shanghai.aliyuncs.com/competition_papers/20211201/rank10.pdf) 
 
 
-- *2021.11* [OPPO安全AI挑战赛-人脸识别攻击](https://security.oppo.com/challenge/home.html) (Top10 prize 600,000¥, 个人solo, 初赛6/2000+, **复赛12/2000+**) [[Leaderboard]](https://security.oppo.com/challenge/rank.html) [[Code]](https://github.com/wujiekd/Hot-restart-black-box-face-adversarial-attack) 
+- *2021.11* [OPPO Security AI Challenge - Face Recognition Attacks](https://security.oppo.com/challenge/home.html) (Top10 prize 600,000¥, Solo, 初赛6/2000+, **复赛12/2000+**) [[Leaderboard]](https://security.oppo.com/challenge/rank.html) [[Code]](https://github.com/wujiekd/Hot-restart-black-box-face-adversarial-attack) 
 
 
-- *2021.03* [CVPR 2021：对抗机器学习研讨会竞赛, 防御模型的白盒对抗攻击](https://aisecure-workshop.github.io/amlcvpr2021/) (Top10 prize 100,000¥, 个人solo, **排名20/1681**) [[Leaderboard]](https://tianchi.aliyun.com/competition/entrance/531847/rankingList) [[Code]](https://github.com/wujiekd/CVPR2021_ODI_BIM_Attack?spm=a2c22.21852664.0.0.7830775fHm2G8V)  [[Blog]](https://tianchi.aliyun.com/forum/post/208313)
+- *2021.03* [CVPR 2021：White-box Adversarial Attacks on ML Defense Models](https://aisecure-workshop.github.io/amlcvpr2021/) (Top10 prize 100,000¥, Solo, **排名20/1681**) [[Leaderboard]](https://tianchi.aliyun.com/competition/entrance/531847/rankingList) [[Code]](https://github.com/wujiekd/CVPR2021_ODI_BIM_Attack?spm=a2c22.21852664.0.0.7830775fHm2G8V)  [[Blog]](https://tianchi.aliyun.com/forum/post/208313)
 
-- *2020.10* [伪造图像的对抗攻击竞赛(阿里天池和清华大学联合举办)](https://tianchi.aliyun.com/competition/entrance/531812) (Top10 prize 2 million ¥, **ranking 6/1666**) [[Leaderboard]](https://tianchi.aliyun.com/competition/entrance/531812/rankingList)
-
-
-- *2020.08* [腾讯广告算法大赛](https://algo.qq.com/) (Top10 prize $100,000, 6th place in preliminary round, **11th place in repechage**, 10,000+ participants) [[Code]](https://github.com/wujiekd/2020-Tencent-advertising-algorithm-contest-rank11) [[Blog]](https://blog.csdn.net/weixin_43999137/article/details/107657517?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171314962516800222817673%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=171314962516800222817673&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-107657517-null-null.142^v100^pc_search_result_base3&utm_term=%E8%85%BE%E8%AE%AF%E5%B9%BF%E5%91%8A%E7%AE%97%E6%B3%95%E5%A4%A7%E8%B5%9Bwujiekd&spm=1018.2226.3001.4187)
+- *2020.10* [Adversarial Attacks on forged images](https://tianchi.aliyun.com/competition/entrance/531812) (Top10 prize 2 million ¥, **ranking 6/1666**) [[Leaderboard]](https://tianchi.aliyun.com/competition/entrance/531812/rankingList)
 
 
-- *2020.04* [二手车交易价格预测正式赛(阿里天池联合Datawhale举办)](https://tianchi.aliyun.com/competition/entrance/231784) (Solo, Winner,  **排名13/2815**) [[Leaderboard]](https://tianchi.aliyun.com/competition/entrance/231784/rankingList) [[Code]](https://github.com/wujiekd/Predicting-used-car-prices) [[Blog]](https://tianchi.aliyun.com/forum/post/104728) 
-
-- *2020.03* [文本分类对抗攻击竞赛(阿里天池和清华大学联合举办)](https://tianchi.aliyun.com/competition/entrance/231762) (Top10 prize 68,000¥, **排名4/1666**) [[Leaderboard]](https://tianchi.aliyun.com/competition/entrance/231762/rankingList) [[Code]](https://github.com/wujiekd/NLP_Chinese_adversarial_attack) [[Blog]](https://tianchi.aliyun.com/forum/post/95886) 
+- *2020.08* [Tencent Advertising Algorithm Competition](https://algo.qq.com/) (Top10 prize $100,000, 6th place in preliminary round, **11th place in repechage**, 10,000+ participants) [[Code]](https://github.com/wujiekd/2020-Tencent-advertising-algorithm-contest-rank11) [[Blog]](https://blog.csdn.net/weixin_43999137/article/details/107657517?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171314962516800222817673%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=171314962516800222817673&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-107657517-null-null.142^v100^pc_search_result_base3&utm_term=%E8%85%BE%E8%AE%AF%E5%B9%BF%E5%91%8A%E7%AE%97%E6%B3%95%E5%A4%A7%E8%B5%9Bwujiekd&spm=1018.2226.3001.4187)
 
 
+- *2020.04* [Used Car Trading Price Forecast](https://tianchi.aliyun.com/competition/entrance/231784) (Solo, Winner,  **排名13/2815**) [[Leaderboard]](https://tianchi.aliyun.com/competition/entrance/231784/rankingList) [[Code]](https://github.com/wujiekd/Predicting-used-car-prices) [[Blog]](https://tianchi.aliyun.com/forum/post/104728) 
 
-- *2019.12* [ImageNet图像分类对抗(阿里天池和清华大学联合举办)](https://tianchi.aliyun.com/competition/entrance/231761) (Top10 prize 68,000¥, **排名5/1522**) [[Leaderboard]](https://tianchi.aliyun.com/competition/entrance/231761/rankingList) [[Blog]](https://tianchi.aliyun.com/forum/post/87389)
+- *2020.03* [Text Adversarial Attack Competition](https://tianchi.aliyun.com/competition/entrance/231762) (Top10 prize 68,000¥, **排名4/1666**) [[Leaderboard]](https://tianchi.aliyun.com/competition/entrance/231762/rankingList) [[Code]](https://github.com/wujiekd/NLP_Chinese_adversarial_attack) [[Blog]](https://tianchi.aliyun.com/forum/post/95886) 
 
 
-- *2019.10* [GeekPwn2019 International Security Geek Contest CAAD CTF Finals](https://geekcon.top/hof/zh/index.html) (Finals prize 100,000¥, **5th place in the Shanghai Finals**, the only undergraduate student team) [[Leaderboard]](https://tianchi.aliyun.com/competition/entrance/231784/rankingList) [[New]](https://www.gzhu.edu.cn/info/1070/3803.htm) 
+
+- *2019.12* [ImageNet Adversarial Attack Competition](https://tianchi.aliyun.com/competition/entrance/231761) (Top10 prize 68,000¥, **排名5/1522**) [[Leaderboard]](https://tianchi.aliyun.com/competition/entrance/231761/rankingList) [[Blog]](https://tianchi.aliyun.com/forum/post/87389)
+
+
+- *2019.10* [GeekPwn2019 International Security Geek Competition CAAD CTF Finals](https://geekcon.top/hof/zh/index.html) (Finals prize 100,000¥, **5th place in the Shanghai Finals**, the only undergraduate student team) [[Leaderboard]](https://tianchi.aliyun.com/competition/entrance/231784/rankingList) [[New]](https://www.gzhu.edu.cn/info/1070/3803.htm) 
 
 
 <span class='anchor' id='-honors'></span>
@@ -212,10 +212,9 @@ Jun Yu, **Keda Lu**, Shenshen Du et al. (primary student author)
 - *2024.03*, Sense AI Framework Industry Summit (organized by Huawei), invited by Huawei, Beijing.
 - *2023.11*, 31st ACM International Conference on Multimedia, Ottawa, Canada.
 - *2020.12*, The 1st AI and Security Symposium (co-sponsored by Tsinghua University and Alibaba Security), invited by Alibaba, Beijing.
-- *2019.10*, The 5th GeekPwn International Security Geek Contest, Shanghai.
+- *2019.10*, The 5th GeekPwn International Security Geek Competition, Shanghai.
 
 
-Translated with DeepL.com (free version)
 <span class='anchor' id='-internships'></span>
 
 # 💻 实习
