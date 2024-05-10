@@ -24,7 +24,7 @@ Research revolves around Multimodal Interaction and Modeling, with internship pr
 
 I will be completing my master's degree at the University of Science and Technology of China under the guidance of Associate Professor Jun Yu. Additionally, I have corporate mentors Peng Chang, who heads the multimodal group at the Silicon Valley Research Institute of Ping An Technology in the United States, and Iek-Heng Chu. My undergraduate studies were pursued at Guangzhou University, where I was supervised by Professor Jin Li, the executive dean of the Institute of Artificial Intelligence, and Associate Professor Xianmin Wang. Currently, I have contributed to the publication of more than 10 articles. <a href='https://scholar.google.com/citations?user=MmZ_y1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-During my undergraduate years, I frequently participated in algorithm competitions. I was a member of the Alibaba Security Student Expert Group. I am ranked the 7th in the [Alibaba Security Challenger Program](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te).
+During my undergraduate and postgraduate years, I often participated in algorithm competitions. I participated in more than 20 AI algorithm competitions in total, and gained a wealth of competition experience and strategies. I was a member of the Alibaba Security Student Expert Group. I am ranked the 7th in the [Alibaba Security Challenger Program](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te).
 
 My research interests include:
 - Multimodal Interaction and Modeling (CV/NLP)
