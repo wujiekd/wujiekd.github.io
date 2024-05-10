@@ -339,7 +339,7 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (First student author)
 <span class='anchor' id='-educations'></span>
 
 # 🎓 Educations
-- *2022.09 - 2025.07*, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/ustclogo.png" width="23pt"></a> University of Science and Technology of China, Computer Technology, Recommended Exemptions, Master's Degree
+- *2022.09 - 2025.07*, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/ustclogo.png" width="23pt"></a> University of Science and Technology of China, Computer Technology, Recommended Postgraduate, Master's Degree
 - *2018.09 - 2022.06*, <a href="https://www.gzhu.edu.cn/"><img class="svg" src="/images/gzhulogo.png" width="20pt"></a> Guangzhou University, Computer Science and Technology (1/591), Bachelor's Degree
 
 
@@ -357,7 +357,7 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (First student author)
 # 💻 Internships
 - *2023.10 - 2024.10*, Palo Alto Lab, PAII, Inc.
 - *2023.04 - 2023.06*, Fuxi Lab, Netease.
-<!-- - *2022.11 - 2023.09*, TouTu lab, Tencent.-->
+- *2022.11 - 2023.09*, YouTu lab, Tencent.
 - *2022.06 - 2022.12*, 2012 Lab, Huawei.
 
 
