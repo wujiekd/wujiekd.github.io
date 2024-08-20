@@ -53,7 +53,7 @@ My business directions include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024 (CCF-A)</div><img src='images/CEAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dialogue Cross-Enhanced Central Engagement Attention Model for Real-Time Engagement Estimation]() \\
+[Dialogue Cross-Enhanced Central Engagement Attention Model for Real-Time Engagement Estimation](https://www.ijcai.org/proceedings/2024/353) \\
 Jun Yu, **Keda Lu**, Ji Zhao et al. (First student author)
 
 1. Propose center-based sliding window to solve the problem of repetitive inference in sliding windows, improving inference efficiency by 100%.
@@ -69,7 +69,7 @@ Jun Yu, **Keda Lu**, Ji Zhao et al. (First student author)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 (CCF-A) workshop</div><img src='images/mvav.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MvAV-pix2pixHD: Multi-view Aerial View Image Translation]() \\
+[MvAV-pix2pixHD: Multi-view Aerial View Image Translation](https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Yu_MvAV-pix2pixHD_Multi-view_Aerial_View_Image_Translation_CVPRW_2024_paper.html) \\
 Jun Yu, **Keda Lu**, Shenshen Du et al. (First student author)
 
 1. Design Time-priority sampling and random sampling for sampling.
@@ -250,10 +250,14 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (First student author)
 ### Master phase (Main force)
 ---
 
-- *2024.03* [CVPR 2024: Multi-modal Aerial View Image Challenge - Translation](https://codalab.lisn.upsaclay.fr/competitions/17224) (Top3 prize 2500$, Solo, **Runner up**🥈) [[LeaderBoard]](https://codalab.lisn.upsaclay.fr/competitions/17224#results) [[Paper]]
+- *2024.07* [ACM-MM 2024: Grand challenge, Multi-Domain Engagement Estimation](https://multimediate-challenge.org/) (Solo, **Champion**🏆) [[LeaderBoard]]()
 
 
-- *2023.10* [ICCV 2023: Out Of Distribution Generalization: Object Classification track](https://codalab.lisn.upsaclay.fr/competitions/14068#results) (Solo, **Champion**🏆) [[LeaderBoard]](https://codalab.lisn.upsaclay.fr/competitions/14068#results) [[Paper在投]]
+
+- *2024.03* [CVPR 2024: Multi-modal Aerial View Image Challenge - Translation](https://codalab.lisn.upsaclay.fr/competitions/17224) (Top3 prize 2500$, Solo, **Runner up**🥈) [[LeaderBoard]](https://codalab.lisn.upsaclay.fr/competitions/17224#results) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Yu_MvAV-pix2pixHD_Multi-view_Aerial_View_Image_Translation_CVPRW_2024_paper.html)
+
+
+- *2023.10* [ICCV 2023: Out Of Distribution Generalization: Object Classification track](https://codalab.lisn.upsaclay.fr/competitions/14068#results) (Solo, **Champion**🏆) [[LeaderBoard]](https://codalab.lisn.upsaclay.fr/competitions/14068#results) [[Paper]]
 
 
 - *2023.10* [ICCV 2023: Out Of Distribution Generalization: Pose Estimation track](https://codalab.lisn.upsaclay.fr/competitions/14074#learn_the_details) (Solo, **Champion**🏆) [[LeaderBoard]](https://codalab.lisn.upsaclay.fr/competitions/14074#results) [[Report]](https://www.ood-cv.org/reports/pose/ImageNet1k-1st.pdf)
