@@ -119,6 +119,9 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (First student author)
 </div>
 
 
+- `ACM-MM 2024` [End-to-end Spatio-Temporal Information Aggregation For Micro-Action Detection]() Jun Yu, Mohan Jing, Gongpeng Zhao, **Keda Lu** et al.
+
+- `ACM-MM 2024` [Building Robust Video-Level Deepfake Detection via Audio-Visual Local-Global Interactions]() Yifan Wang, Xuecheng Wu, Jia Zhang, Mohan Jing, **Keda Lu** et al.
 
 
 
@@ -250,8 +253,7 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (First student author)
 ### Master phase (Main force)
 ---
 
-- *2024.07* [ACM-MM 2024: Grand challenge, Multi-Domain Engagement Estimation](https://multimediate-challenge.org/) (Solo, **Champion**🏆) [[LeaderBoard]]()
-
+- *2024.07* [ACM-MM 2024: Grand challenge, Multi-Domain Engagement Estimation](https://multimediate-challenge.org/) (Solo, **Champion**🏆) [[LeaderBoard]](https://multimediate-challenge.org/leaderboards/leaderboard_engagement/)
 
 
 - *2024.03* [CVPR 2024: Multi-modal Aerial View Image Challenge - Translation](https://codalab.lisn.upsaclay.fr/competitions/17224) (Top3 prize 2500$, Solo, **Runner up**🥈) [[LeaderBoard]](https://codalab.lisn.upsaclay.fr/competitions/17224#results) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Yu_MvAV-pix2pixHD_Multi-view_Aerial_View_Image_Translation_CVPRW_2024_paper.html)
@@ -282,7 +284,17 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (First student author)
 
 
 ### Master phase（Assistance）
+
+
 ---
+
+- *2024.07* [ACM-MM 2024: 1M-Deepfakes Detection Challenge](https://deepfakes1m.github.io/) (**Champion**🏆) [[LeaderBoard]]() [[Paper]]()
+
+- *2024.07* [ACM-MM 2024: Micro-Action Analysis Grand Challenge：Multi-label Micro-Action Detection](https://sites.google.com/view/micro-action) (**Champion**🏆) [[LeaderBoard]](https://sites.google.com/view/micro-action/challenge/winners?authuser=0) [[Paper]]()
+
+- *2024.07* [ACM-MM 2024: Micro-Action Analysis Grand Challenge：Micro-Action Detection](https://sites.google.com/view/micro-action) (**Runner up**🥈) [[LeaderBoard]](https://sites.google.com/view/micro-action/challenge/winners?authuser=0) [[Paper]]()
+
+
 - *2023.12* [ICCV 2023: WECIA - Caption Generation Challenge](https://eval.ai/web/challenges/challenge-page/2104/overview) (**Champion**🏆) [[LeaderBoard]](https://eval.ai/web/challenges/challenge-page/2104/LB/5203)
 
 
@@ -333,6 +345,7 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (First student author)
 <span class='anchor' id='-honors'></span>
 
 # 🎖 Honors and Awards
+- *2024.10* National Scholarship (Top 1% of graduate students)
 - *2023.11* Huawei Scholarship (Top 30th in the university)
 - *2023.10* National Scholarship (Top 1% of graduate students)
 - *2022.10* National Scholarship (Top 1% of graduate students)
@@ -369,4 +382,4 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (First student author)
 
 **Thank you very much for every visitor, and I look forward to hearing from you!**
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=rKMwhJZp-jNdf9O9kF5nNmH24oOX225WsWhZMH3I8bQ'></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=rKMwhJZp-jNdf9O9kF5nNmH24oOX225WsWhZMH3I8bQ&cl=ffffff&w=a"></script>
