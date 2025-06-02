@@ -17,14 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+**My research focuses on multimodal interaction and modeling, with applications in large language models (LLMs) and image generation.**
 
-Research revolves around Multimodal Interaction and Modeling, with internship projects involving LLM and Image Generation. 
 
-**Currently seeking works related to Multimodal algorithms and AIGC.**
+I am currently working at Huawei Technologies Co., Ltd., in the Terminal Cloud Service, Celia. I received my Master’s degree from the University of Science and Technology of China (USTC), under the supervision of Associate Professor Jun Yu, with industry mentorship from Peng Chang, Director of the U.S. Silicon Valley Research Institute at Ping An Technology, and Iek-Heng Chu. I received my Bachelor’s degree from Guangzhou University, supervised by Professor Jin Li, Executive Dean of the Institute of Artificial Intelligence, and Associate Professor Xianmin Wang. To date, I have co-authored over 10 research papers. <a href='https://scholar.google.com/citations?user=MmZ_y1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-I will be completing my master's degree at the University of Science and Technology of China under the guidance of Associate Professor Jun Yu. Additionally, I have corporate mentors Peng Chang, who heads the multimodal group at the Silicon Valley Research Institute of Ping An Technology in the United States, and Iek-Heng Chu. My undergraduate studies were pursued at Guangzhou University, where I was supervised by Professor Jin Li, the executive dean of the Institute of Artificial Intelligence, and Associate Professor Xianmin Wang. Currently, I have contributed to the publication of more than 10 articles. <a href='https://scholar.google.com/citations?user=MmZ_y1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
-During my undergraduate and postgraduate years, I often participated in algorithm competitions. I participated in more than 20 AI algorithm competitions in total, and gained a wealth of competition experience and strategies. I was a member of the Alibaba Security Student Expert Group. I am ranked the 7th in the [Alibaba Security Challenger Program](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te).
+During my undergraduate and graduate studies, I frequently participated in algorithm competitions and have won more than 10 national and international AI competition awards, accumulating a wealth of experience and strategy in this field. I was a member of the Alibaba Security Student Expert Group. I am ranked the 7th in the [Alibaba Security Challenger Program](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te).
 
 My research interests include:
 - Multimodal Interaction and Modeling (CV/NLP)
@@ -259,7 +257,7 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (First student author)
 - *2024.03* [CVPR 2024: Multi-modal Aerial View Image Challenge - Translation](https://codalab.lisn.upsaclay.fr/competitions/17224) (Top3 prize 2500$, Solo, **Runner up**🥈) [[LeaderBoard]](https://codalab.lisn.upsaclay.fr/competitions/17224#results) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Yu_MvAV-pix2pixHD_Multi-view_Aerial_View_Image_Translation_CVPRW_2024_paper.html)
 
 
-- *2023.10* [ICCV 2023: Out Of Distribution Generalization: Object Classification track](https://codalab.lisn.upsaclay.fr/competitions/14068#results) (Solo, **Champion**🏆) [[LeaderBoard]](https://codalab.lisn.upsaclay.fr/competitions/14068#results) [[Paper]]
+- *2023.10* [ICCV 2023: Out Of Distribution Generalization: Object Classification track](https://codalab.lisn.upsaclay.fr/competitions/14068#results) (Solo, **Champion**🏆) [[LeaderBoard]](https://codalab.lisn.upsaclay.fr/competitions/14068#results) [[Paper]]()
 
 
 - *2023.10* [ICCV 2023: Out Of Distribution Generalization: Pose Estimation track](https://codalab.lisn.upsaclay.fr/competitions/14074#learn_the_details) (Solo, **Champion**🏆) [[LeaderBoard]](https://codalab.lisn.upsaclay.fr/competitions/14074#results) [[Report]](https://www.ood-cv.org/reports/pose/ImageNet1k-1st.pdf)
@@ -288,11 +286,11 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (First student author)
 
 ---
 
-- *2024.07* [ACM-MM 2024: 1M-Deepfakes Detection Challenge](https://deepfakes1m.github.io/) (**Champion**🏆) [[LeaderBoard]]() [[Paper]]()
+- *2024.07* [ACM-MM 2024: 1M-Deepfakes Detection Challenge](https://deepfakes1m.github.io/) (**Champion**🏆) [[LeaderBoard]](https://deepfakes1m.github.io/2024) [[Paper]](https://dl.acm.org/doi/10.1145/3664647.3688985)
 
-- *2024.07* [ACM-MM 2024: Micro-Action Analysis Grand Challenge：Multi-label Micro-Action Detection](https://sites.google.com/view/micro-action) (**Champion**🏆) [[LeaderBoard]](https://sites.google.com/view/micro-action/challenge/winners?authuser=0) [[Paper]]()
+- *2024.07* [ACM-MM 2024: Micro-Action Analysis Grand Challenge：Multi-label Micro-Action Detection](https://sites.google.com/view/micro-action) (**Champion**🏆) [[LeaderBoard]](https://sites.google.com/view/micro-action/challenge/winners?authuser=0) [[Paper]](https://dl.acm.org/doi/10.1145/3664647.3688974)
 
-- *2024.07* [ACM-MM 2024: Micro-Action Analysis Grand Challenge：Micro-Action Detection](https://sites.google.com/view/micro-action) (**Runner up**🥈) [[LeaderBoard]](https://sites.google.com/view/micro-action/challenge/winners?authuser=0) [[Paper]]()
+- *2024.07* [ACM-MM 2024: Micro-Action Analysis Grand Challenge：Micro-Action Detection](https://sites.google.com/view/micro-action) (**Runner up**🥈) [[LeaderBoard]](https://sites.google.com/view/micro-action/challenge/winners?authuser=0) [[Paper]](https://dl.acm.org/doi/10.1145/3664647.3688974)
 
 
 - *2023.12* [ICCV 2023: WECIA - Caption Generation Challenge](https://eval.ai/web/challenges/challenge-page/2104/overview) (**Champion**🏆) [[LeaderBoard]](https://eval.ai/web/challenges/challenge-page/2104/LB/5203)
@@ -345,6 +343,8 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (First student author)
 <span class='anchor' id='-honors'></span>
 
 # 🎖 Honors and Awards
+- *2025.03* Outstanding Graduate of Anhui Province
+- *2025.03* Outstanding Graduate of University of Science and Technology of China
 - *2024.10* National Scholarship (Top 1% of graduate students)
 - *2023.11* Huawei Scholarship (Top 30th in the university)
 - *2023.10* National Scholarship (Top 1% of graduate students)
@@ -371,12 +371,12 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (First student author)
 
 <span class='anchor' id='-internships'></span>
 
-# 💻 Internships
-- *2023.10 - 2024.10*, Palo Alto Lab, PAII, Inc.
-- *2023.04 - 2023.06*, Fuxi Lab, Netease.
-- *2022.11 - 2023.09*, YouTu lab, Tencent.
-- *2022.06 - 2022.12*, 2012 Lab, Huawei.
-
+# 💻 Work Experience
+- *2025.06 - 至今*, Terminal Cloud Service, Celia, Huawei.
+- *2023.10 - 2025.06*, Palo Alto Lab, PAII, Inc (Intern).
+- *2023.04 - 2023.06*, Fuxi Lab, Netease (Intern).
+- *2022.11 - 2023.09*, YouTu lab, Tencent (Intern).
+- *2022.06 - 2022.12*, 2012 Lab, Huawei (Intern).
 
 
 
