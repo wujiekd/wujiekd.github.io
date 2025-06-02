@@ -22,7 +22,7 @@ redirect_from:
 
 I am currently working at **Huawei, Celia**. I received my Master’s degree from the **University of Science and Technology of China (USTC)**, under the supervision of Associate Professor Jun Yu, with industry mentorship from Peng Chang, Director of the U.S. Silicon Valley Research Institute at Ping An Technology, and Iek-Heng Chu. I received my Bachelor’s degree from Guangzhou University, supervised by Professor Jin Li, Executive Dean of the Institute of Artificial Intelligence, and Associate Professor Xianmin Wang. To date, I have co-authored over 10 research papers. <a href='https://scholar.google.com/citations?user=MmZ_y1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-During my undergraduate and graduate studies, I frequently participated in algorithm competitions and have won more than 10 national and international AI competition awards, accumulating a wealth of experience and strategy in this field. I was a member of the Alibaba Security Student Expert Group. I am ranked the 7th in the [Alibaba Security Challenger Program](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te).
+During my undergraduate and graduate studies, I frequently participated in algorithm competitions and have won more than 20 national and international AI competition awards, accumulating a wealth of experience and strategy in this field. I was a member of the Alibaba Security Student Expert Group. I am ranked the 7th in the [Alibaba Security Challenger Program](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te).
 
 My research interests include:
 - Multimodal Interaction and Modeling (CV/NLP)
@@ -371,7 +371,7 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (First student author)
 
 <span class='anchor' id='-internships'></span>
 
-# 💻 Work Experience
+# 💻 Work experience
 - *2025.06 - 至今*, Terminal Cloud Service, Celia, Huawei.
 - *2023.10 - 2025.06*, Palo Alto Lab, PAII, Inc (Intern).
 - *2023.04 - 2023.06*, Fuxi Lab, Netease (Intern).
